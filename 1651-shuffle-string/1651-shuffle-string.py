@@ -5,10 +5,8 @@ class Solution(object):
         :type indices: List[int]
         :rtype: str
         """
-        new_str=""
-        new_indices=indices[:]
-        new_indices.sort()
-        for i in new_indices:
-            j=indices.index(i)
-            new_str+=s[j]
-        return new_str
+        ans = [""] * len(s) 
+        for i, ch in enumerate(s):
+            ans[indices[i]] = ch
+
+        return "".join(ans)
