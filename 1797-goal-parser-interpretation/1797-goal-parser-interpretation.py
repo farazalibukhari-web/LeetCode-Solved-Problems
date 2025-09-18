@@ -4,16 +4,14 @@ class Solution(object):
         :type command: str
         :rtype: str
         """
-        i=0
-        new_str=""
-        while i<len(command):
-            if command[i]=="G":
-                new_str+="G"
-                i+=1
-            elif command[i:i+2]=="()":
-                new_str+="o"
-                i+=2
-            elif command[i:i+4]=="(al)":
-                new_str+="al"
-                i+=4
-        return new_str
+        l=[]
+        command=list(command)
+        for i in range(len(command)):
+            if command[i]=='(':
+                if command[i+1]==')':
+                    l.append('o')
+                else:
+                    l.append('al')
+            elif command[i]=='G':
+                l.append('G')
+        return ''.join(l)
