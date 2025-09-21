@@ -6,16 +6,14 @@ class Solution(object):
         """
         count_1=0
         count_2=0
-        n=len(s)//2
-        list_1=list("".join(s[:n]))
-        list_2=list("".join(s[n:]))
-        for letter in list_1:
-            if letter in "aeiouAEIOU":
-                count_1+=1
-                
-        for letter in list_2:
-            if letter in "aeiouAEIOU":
-                count_2+=1
+        new_list=list("".join(s))
+        for letter in range(len(new_list)):
+            if new_list[letter] in "aeiouAEIOU":
+                if letter<=(len(new_list)-1)//2:
+                    count_1+=1
+                else:
+                    count_2+=1
         if count_1==count_2:
             return True
-        return False        
+        else:
+            return False       
