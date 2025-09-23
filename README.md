@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1970-sorting-the-sentence](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1970-sorting-the-sentence) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Array
 |  |
 | ------- |
 | [1651-shuffle-string](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
 | ------- |
