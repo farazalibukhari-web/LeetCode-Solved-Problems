@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0168-excel-sheet-column-title) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0014-longest-common-prefix) |
 | [1651-shuffle-string](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
