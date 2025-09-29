@@ -4,6 +4,8 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        new_list=list(s.split())
-        length=len("".join(new_list[-1:]))
-        return length
+
+        words = s.strip().split()
+        if not words:
+            return 0
+        return len(words[-1])
