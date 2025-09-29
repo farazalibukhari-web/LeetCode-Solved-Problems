@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1970-sorting-the-sentence](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2128-reverse-prefix-of-word](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/2128-reverse-prefix-of-word) |
 ## Array
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0961-long-pressed-name](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0961-long-pressed-name) |
+| [2128-reverse-prefix-of-word](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/2128-reverse-prefix-of-word) |
 ## Math
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1764-maximum-repeating-substring](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1764-maximum-repeating-substring) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
