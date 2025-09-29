@@ -5,16 +5,9 @@ class Solution(object):
         :type ch: str
         :rtype: str
         """
-        count=0
-        new_string=""
-        for i in range(len(word)):
-            if word[i]==ch and count==0:
-                count+=1
-                for j in range(i, -1, -1):
-                    a=word[j]
-                    new_string+=a
-            elif count==1:
-                new_string+=word[i]
-            elif word[i]!=ch and i==len(word)-1:
-                return word
+        if ch not in word:
+            return word
+        i=word.index(ch)
+        new_string=word[:i+1][::-1]+word[i+1:]
+        
         return new_string
