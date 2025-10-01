@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0014-longest-common-prefix) |
+| [0054-spiral-matrix](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0054-spiral-matrix) |
 | [1651-shuffle-string](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0657-robot-return-to-origin) |
 ## Two Pointers
 |  |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
