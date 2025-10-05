@@ -3,13 +3,10 @@ class Solution(object):
         """
         :type nums: List[int]
         :rtype: bool
-        """
-        max_reach=nums[0]
-        i=0
+            """
+        last_num=len(nums)-1
+        for i in range(len(nums)-2,-1,-1):
+            if i+nums[i]>=last_num:
+                last_num=i
+        return last_num==0
         
-        while i<=max_reach:
-            max_reach=max(max_reach,i+nums[i])
-            i+=1
-            if max_reach>=len(nums)-1:
-                return True
-        return False
