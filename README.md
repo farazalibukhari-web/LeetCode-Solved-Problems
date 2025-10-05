@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0238-product-of-array-except-self) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
 ## Trie
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0055-jump-game) |
 | [1764-maximum-repeating-substring](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1764-maximum-repeating-substring) |
 ## Stack
 |  |
