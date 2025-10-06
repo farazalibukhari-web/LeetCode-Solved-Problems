@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0189-rotate-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0238-product-of-array-except-self) |
 | [0921-spiral-matrix-iii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0921-spiral-matrix-iii) |
 | [1651-shuffle-string](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1651-shuffle-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0961-long-pressed-name](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0961-long-pressed-name) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
 ## String Matching
 |  |
 | ------- |
