@@ -4,18 +4,15 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        l=0
-        r=len(nums)-1
-        
-        if len(nums)<2:
-            return nums[0]
-        
-        while l<r:
-            mid= (l+r)//2
-            if mid%2==1:
-                mid-=1
-            if nums[mid]==nums[mid+1]:
-                l=mid+2
+        left = 0
+        right = len(nums)-1
+        while left<right:
+            mid = (left+right)//2
+            if nums[mid]!=nums[mid-1] and nums[mid]!=nums[mid+1]:
+                return nums[mid]
+            if nums[mid]==nums[mid-1] and mid%2==0 or nums[mid]==nums[mid+1] and mid%2!=0:
+                right = mid
             else:
-                r=mid
-        return nums[l]
+                left = mid+1
+        return nums[left]
+        
