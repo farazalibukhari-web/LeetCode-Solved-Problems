@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
