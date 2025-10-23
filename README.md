@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## String Matching
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Trie
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Divide and Conquer
 |  |
 | ------- |
