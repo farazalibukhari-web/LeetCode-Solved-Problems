@@ -6,30 +6,23 @@ class Solution(object):
         :type maxSum: int
         :rtype: int
         """
+        
+        res = 1
+        remain = maxSum - n
 
-        def side_sum(peak, length):
+        req = 1
+        expand = 0
 
-            # number of values before reaching 1 on that side
-            dec_steps = peak - 1
-            if dec_steps >= length:
-                return length * (2 * peak - length - 1) // 2
-            else:
-                return (dec_steps * (dec_steps + 1)) // 2 + (length - dec_steps)
+        while remain >= req:
+            res += 1
+            remain -= req
+            expand += 1
+            left_e = min(index,expand)
+            right_e = min(n-index-1,expand)
+            req = left_e + right_e + 1
+            if req == n:
+                break
+        if remain > 0:
+            res += remain/n
 
-        low, high = 1, maxSum
-        ans = 1
-
-        while low <= high:
-            mid = (low + high) // 2  # candidate peak value
-
-            left = side_sum(mid, index)                # sum of left side (index elements)
-            right = side_sum(mid, n - index - 1)       # sum of right side
-            total = left + mid + right
-
-            if total <= maxSum:
-                ans = mid
-                low = mid + 1
-            else:
-                high = mid - 1
-
-        return ans
+        return res
