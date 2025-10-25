@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
+| [0755-reach-a-number](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0755-reach-a-number) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## String Matching
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0162-find-peak-element) |
 | [0436-find-right-interval](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0755-reach-a-number](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0755-reach-a-number) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Divide and Conquer
 |  |
