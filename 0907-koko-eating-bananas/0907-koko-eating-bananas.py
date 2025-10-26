@@ -1,27 +1,38 @@
+import math
+
 class Solution(object):
+
+    def findmax(self, piles):
+        maxi = float('-inf')
+        n = len(piles)
+        for i in range(n):
+            maxi = max(maxi, piles[i])
+        return maxi
+
+    def calculatehours(self, piles, hourly):
+        totalh = 0
+        n = len(piles)
+
+        for i in range(n):
+            totalh += math.ceil(float(piles[i]) / hourly)
+        return totalh
+
     def minEatingSpeed(self, piles, h):
         """
         :type piles: List[int]
         :type h: int
         :rtype: int
         """
-        left = 1
-        right = max(piles)
-        k = right
+        low = 1
+        high = max(piles)
 
-        while left <= right:
-            mid = (left + right) // 2  #mid=Speed of Koko eating Banana
-            hours = 0
+        while low <= high:
+            mid = (low + high) // 2
+            totalh = self.calculatehours(piles, mid)
 
-            for p in piles:
-                time = math.ceil(p / float(mid))  #Time taken by koko to finish the piles
-                hours += time
-                
-            if hours <= h:
-                k = mid
-                right = mid - 1   
+            if totalh <= h:
+                high = mid - 1
             else:
-                left = mid + 1    
+                low = mid + 1
 
-        return k
-
+        return low
