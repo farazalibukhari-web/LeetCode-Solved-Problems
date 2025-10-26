@@ -5,7 +5,6 @@ class Solution(object):
         :type h: int
         :rtype: int
         """
-        import math
         left = 1
         right = max(piles)
         k = right
