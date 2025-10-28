@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1946-minimum-absolute-sum-difference](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1946-minimum-absolute-sum-difference) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0436-find-right-interval](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0436-find-right-interval) |
 | [1946-minimum-absolute-sum-difference](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1946-minimum-absolute-sum-difference) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-sorting-the-sentence](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1970-sorting-the-sentence) |
 ## Counting
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Trie
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0238-product-of-array-except-self) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0907-koko-eating-bananas) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1946-minimum-absolute-sum-difference](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1946-minimum-absolute-sum-difference) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -156,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1946-minimum-absolute-sum-difference](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1946-minimum-absolute-sum-difference) |
+## Sliding Window
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
