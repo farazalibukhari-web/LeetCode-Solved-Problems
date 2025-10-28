@@ -51,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0921-spiral-matrix-iii) |
 | [1651-shuffle-string](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1946-minimum-absolute-sum-difference](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1946-minimum-absolute-sum-difference) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0436-find-right-interval](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0436-find-right-interval) |
+| [1946-minimum-absolute-sum-difference](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1946-minimum-absolute-sum-difference) |
 | [1970-sorting-the-sentence](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1970-sorting-the-sentence) |
 ## Counting
 |  |
@@ -145,8 +147,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0755-reach-a-number](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0755-reach-a-number) |
 | [0907-koko-eating-bananas](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0907-koko-eating-bananas) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1946-minimum-absolute-sum-difference](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1946-minimum-absolute-sum-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Ordered Set
+|  |
+| ------- |
+| [1946-minimum-absolute-sum-difference](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1946-minimum-absolute-sum-difference) |
 <!---LeetCode Topics End-->
