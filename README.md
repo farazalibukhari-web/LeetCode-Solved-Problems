@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0921-spiral-matrix-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1651-shuffle-string](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1946-minimum-absolute-sum-difference](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1946-minimum-absolute-sum-difference) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0755-reach-a-number](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0755-reach-a-number) |
 | [0907-koko-eating-bananas](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1946-minimum-absolute-sum-difference](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
