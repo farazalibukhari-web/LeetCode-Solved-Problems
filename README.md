@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0907-koko-eating-bananas) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0961-long-pressed-name](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0961-long-pressed-name) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0755-reach-a-number](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0755-reach-a-number) |
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
