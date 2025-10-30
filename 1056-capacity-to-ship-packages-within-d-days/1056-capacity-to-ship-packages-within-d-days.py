@@ -7,11 +7,11 @@ class Solution(object):
         """
         l,r=max(weights),sum(weights)
         
-        def shipcap(weights,days,cap):
+        def shipcap(weights,days,max_load):
             ship=1
             cap=0
             for w in weights:
-                if cap+w>mid:
+                if cap+w>max_load:
                     cap=0
                     ship+=1
                 cap+=w
