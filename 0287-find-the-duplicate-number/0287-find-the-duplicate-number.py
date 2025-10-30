@@ -4,8 +4,9 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        d = {}
-        for i in nums:
-            if i in d:
-                return i
-            d[i] = 1
+
+        nums.sort()
+        for idx in range(1, len(nums)):
+            if nums[idx] == nums[idx - 1]:
+                return nums[idx]
+        
