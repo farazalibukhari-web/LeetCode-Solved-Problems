@@ -6,19 +6,22 @@ class Solution(object):
         :rtype: int
         """
         l,r=max(weights),sum(weights)
-                    
-        while l<r:
+        
+        def shipcap(weights,days,cap):
+            ship=1
             cap=0
-            ship=1    
-            mid=(l+r)//2
             for w in weights:
-                if cap + w > mid:
-                    ship += 1
-                    cap = 0
-                cap += w
-
-            if ship> days:
-                l=mid+1
-            else:
+                if cap+w>mid:
+                    cap=0
+                    ship+=1
+                cap+=w
+                if ship>days:
+                    return False                   
+            return True
+        while(l<r):
+            mid=(l+r)//2
+            if shipcap(weights,days,mid):
                 r=mid
-        return l        
+            else:
+                l=mid+1
+        return l
