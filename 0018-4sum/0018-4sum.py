@@ -1,26 +1,40 @@
 class Solution(object):
     def fourSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[List[int]]
+        """
         nums.sort()
-        n = len(nums)
-        res = []
+        new_list = []
 
-        for i in range(n):
-            if i > 0 and nums[i] == nums[i-1]:
-                continue  # skip duplicate i
-            for j in range(i+1, n):
-                if j > i+1 and nums[j] == nums[j-1]:
-                    continue  # skip duplicate j
-                for k in range(j+1, n):
-                    if k > j+1 and nums[k] == nums[k-1]:
-                        continue  # skip duplicate k
-                    for l in range(k+1, n):
-                        if l > k+1 and nums[l] == nums[l-1]:
-                            continue  # skip duplicate l
-
-                        total = nums[i] + nums[j] + nums[k] + nums[l]
-                        if total == target:
-                            res.append([nums[i], nums[j], nums[k], nums[l]])
-                        elif total > target:
-                            break  # stop inner loop early since array is sorted
-
-        return res
+        for a in range(len(nums) - 3):
+            if a > 0 and nums[a] == nums[a - 1]:
+                continue
+            
+            for b in range(a + 1, len(nums) - 2):    
+                if b > a + 1 and nums[b] == nums[b - 1]:
+                    continue
+                
+                left,right = b + 1,len(nums) - 1 
+                
+                while left < right:                 
+                    current_sum=nums[left] + nums[right] + nums[a] + nums[b]
+                    if current_sum== target:
+                        new_list.append([nums[a], nums[b], nums[left], nums[right]])
+                        
+                        while left < right and nums[left] == nums[left + 1]:
+                            left += 1
+                        
+                        while left < right and nums[right] == nums[right - 1]:
+                            right -= 1
+                            
+                        left += 1
+                        right -= 1
+                        
+                    elif current_sum < target:
+                        left += 1
+                    else:
+                        right -= 1
+                        
+        return new_list
