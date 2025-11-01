@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1946-minimum-absolute-sum-difference](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2047-find-a-peak-element-ii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0921-spiral-matrix-iii) |
+| [2047-find-a-peak-element-ii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/2047-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1946-minimum-absolute-sum-difference](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2047-find-a-peak-element-ii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/2047-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
