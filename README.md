@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0436-find-right-interval) |
+| [0485-max-consecutive-ones](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0921-spiral-matrix-iii) |
