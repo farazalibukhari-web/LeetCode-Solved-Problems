@@ -5,16 +5,18 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        new_list=[]
-        
-        for nums in nums1:
-            pos=nums2.index(nums)
-            next_greater_element=-1
-            for i in range(pos+1,len(nums2)):
-                if nums2[i]>nums:
-                    next_greater_element=nums2[i]
-                    break
-            
-            new_list.append(next_greater_element)
-        
-        return new_list
+        stack = []
+        next_greater_map = {}
+
+        for num2 in nums2:
+            while stack and num2 >stack[-1]:
+                smaller_num = stack.pop()            
+                next_greater_map[smaller_num] = num2  
+
+            stack.append(num2)
+
+        result = []
+        for num1 in nums1:
+            result.append(next_greater_map.get(num1, -1))
+
+        return result
