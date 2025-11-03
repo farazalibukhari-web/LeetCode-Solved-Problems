@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0436-find-right-interval) |
 | [0485-max-consecutive-ones](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0921-spiral-matrix-iii) |
@@ -126,12 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [2128-reverse-prefix-of-word](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/2128-reverse-prefix-of-word) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0496-next-greater-element-i](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
