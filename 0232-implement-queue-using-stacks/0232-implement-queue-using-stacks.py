@@ -1,46 +1,20 @@
+#from collections import deque
+
 class MyQueue(object):
 
     def __init__(self):
-        self.arr = []
+        self.arr = deque()
 
     def push(self, x):
-        """
-        :type x: int
-        :rtype: None
-        """
-
-        self.arr.append(x)
-        
+        self.arr.append(x)   # enqueue to the right
 
     def pop(self):
-        """
-        :rtype: int
-        """
-
         if not self.empty():
-            return self.arr.pop(0)
-        
+            return self.arr.popleft()  # dequeue from the left
 
     def peek(self):
-        """
-        :rtype: int
-        """
-
         if not self.empty():
             return self.arr[0]
-        
 
     def empty(self):
-        """
-        :rtype: bool
-        """
         return len(self.arr) == 0
-        
-
-
-# Your MyQueue object will be instantiated and called as such:
-# obj = MyQueue()
-# obj.push(x)
-# param_2 = obj.pop()
-# param_3 = obj.peek()
-# param_4 = obj.empty()
