@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [2128-reverse-prefix-of-word](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/2128-reverse-prefix-of-word) |
 ## Hash Table
 |  |
@@ -181,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
