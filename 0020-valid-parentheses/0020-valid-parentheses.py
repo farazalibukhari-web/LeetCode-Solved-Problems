@@ -4,18 +4,13 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        stack=[]
-        for i in s:
-            if i == '(' or i == '{' or i == '[':
-                stack.append(i)
+        stack = []
+        para_dic = {')': '(', '}': '{', ']': '['}
+        for para in s:
+            if para in para_dic:
+                if not stack or stack[-1] != para_dic[para]:
+                    return False
+                stack.pop()
             else:
-                if not stack:
-                    return False
-                elif i ==')'and stack[-1]!='(':
-                    return False
-                elif i =='}'and stack[-1]!='{':
-                    return False
-                elif i ==']'and stack[-1]!='[':
-                    return False
-                stack.pop()                
-        return len(stack)==0
+                stack.append(para)
+        return len(stack) == 0
