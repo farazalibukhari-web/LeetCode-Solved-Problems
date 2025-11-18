@@ -4,10 +4,12 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        stack=[]
-        for i in range(len(s)):
-            if stack and s[i]==stack[-1]:
-                stack.pop()
+        string = ""
+
+        for c in s:
+            if len(string) == 0 or string[-1] != c:
+                string += c
             else:
-                stack.append(s[i])
-        return "".join(stack)
+                string = string[:-1]
+        
+        return string
