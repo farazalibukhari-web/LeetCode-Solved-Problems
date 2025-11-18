@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0742-to-lower-case) |
 | [0961-long-pressed-name](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0961-long-pressed-name) |
 | [1078-remove-outermost-parentheses](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1651-shuffle-string](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1651-shuffle-string) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/2128-reverse-prefix-of-word) |
 ## Hash Table
 |  |
