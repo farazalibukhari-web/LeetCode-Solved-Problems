@@ -4,19 +4,16 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        result = []
-        stack = []
+        res = ""
+        count = 0   # keeps track of open parentheses
 
         for ch in s:
-            if ch == '(':        
-                if len(stack)>0:
-                    result.append(ch)
-                stack.append('(')
-            else:  # ch == ')'
-                stack.pop()               
-                if len(stack)>0:
-                    result.append(ch)
-
-        return "".join(result)
-
-                
+            if ch == '(':
+                if count > 0:     # not the outermost '('
+                    res += '('
+                count += 1
+            else:
+                count -= 1
+                if count > 0:     # not the outermost ')'
+                    res += ')'
+        return res
