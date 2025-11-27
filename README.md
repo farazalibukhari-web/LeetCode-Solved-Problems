@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0733-flood-fill](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
 | [0907-koko-eating-bananas](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0921-spiral-matrix-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0733-flood-fill](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
 | [0921-spiral-matrix-iii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0921-spiral-matrix-iii) |
 | [2047-find-a-peak-element-ii](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/2047-find-a-peak-element-ii) |
 ## Prefix Sum
@@ -211,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0933-number-of-recent-calls) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/farazalibukhari-web/LeetCode-Solved-Problems/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
